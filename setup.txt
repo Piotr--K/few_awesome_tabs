@@ -1,0 +1,14 @@
+Project build with ES6 javascript, css html5
+https://medium.com/@paooolino/a-modern-javascript-project-setup-b7842955d1d3#.ox73jwc57
+
+Libraries:
+1. Webpack - to bundle, build project
+2. BabelJs - to help translating ES6 to old syntax (today not all browsers support fully ES6)
+3. Nodejs - to take advantage of npm - package manager tool
+
+
+
+TODO:
+1. add test folder and testing framework
+2. invoke tests each time change is made to one of .js files
+3. load changes automatically to browser

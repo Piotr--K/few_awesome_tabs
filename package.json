@@ -1,0 +1,22 @@
+{
+  "name": "few_awesome_tabs",
+  "version": "1.0.0",
+  "description": "projec to practice javascript es6. it will have few tabs with data displayed in few common controls",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
