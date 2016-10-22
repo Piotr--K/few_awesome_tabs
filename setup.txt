@@ -12,3 +12,14 @@ TODO:
 1. add test folder and testing framework
 2. invoke tests each time change is made to one of .js files
 3. load changes automatically to browser
+
+
+Notes:
+
+Github setup:
+echo "# few_awesome_tabs" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Piotr--K/few_awesome_tabs.git
+git push -u origin master
